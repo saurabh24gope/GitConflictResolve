@@ -9,7 +9,11 @@ public class DemoApplication {
 
 	public static void main(String[] args) {
 		ConfigurableApplicationContext context = SpringApplication.run(DemoApplication.class, args);
+
+		int b =88;
+
 		int a =99;
+
 	}
 
 }
